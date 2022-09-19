@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "713FF479-AAF5-4285-8C38-2F9C3D9012DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEDA08CA-DA0C-497F-A270-60A35DEDC8A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrafficLightsVer2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EEDA08CA-DA0C-497F-A270-60A35DEDC8A4 - 3306a34c53cdce5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLightsVer2.ViewController.greenLightView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TrafficLightsVer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ollegsey/Desktop/swift/TrafficLightsVer2/TrafficLightsVer2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "EEDA08CA-DA0C-497F-A270-60A35DEDC8A4 - 8f406a7d3613a653"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLightsVer2.ViewController.greenLightView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TrafficLightsVer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ollegsey/Desktop/swift/TrafficLightsVer2/TrafficLightsVer2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "EEDA08CA-DA0C-497F-A270-60A35DEDC8A4 - 18107b7f204db440"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLightsVer2.ViewController.greenLightView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TrafficLightsVer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ollegsey/Desktop/swift/TrafficLightsVer2/TrafficLightsVer2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "EEDA08CA-DA0C-497F-A270-60A35DEDC8A4 - b7fdb4a63851f795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLightsVer2.ViewController.greenLightView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TrafficLightsVer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ollegsey/Desktop/swift/TrafficLightsVer2/TrafficLightsVer2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "EEDA08CA-DA0C-497F-A270-60A35DEDC8A4 - a8bd898decb288b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLightsVer2.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TrafficLightsVer2.ViewController"
+                  moduleName = "TrafficLightsVer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ollegsey/Desktop/swift/TrafficLightsVer2/TrafficLightsVer2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  uuid = "EEDA08CA-DA0C-497F-A270-60A35DEDC8A4 - 1736d350201fb7c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLightsVer2.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TrafficLightsVer2.ViewController&gt;"
+                  moduleName = "TrafficLightsVer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ollegsey/Desktop/swift/TrafficLightsVer2/TrafficLightsVer2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
