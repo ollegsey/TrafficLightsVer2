@@ -17,8 +17,8 @@ class ViewController: UIViewController {
     private var currentLight = CurrentLight.red
     private let lightIsOn: CGFloat = 1
     private let lightIsOff: CGFloat = 0.3
-
-
+    
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -28,17 +28,17 @@ class ViewController: UIViewController {
         redLightView.alpha = lightIsOff
         yellowLightView.alpha = lightIsOff
         greenLightView.alpha = lightIsOff
-
+        
     }
     
     override func viewWillLayoutSubviews() {
         redLightView.layer.cornerRadius = redLightView.frame.width / 2
         yellowLightView.layer.cornerRadius = yellowLightView.frame.width / 2
         greenLightView.layer.cornerRadius = greenLightView.frame.width / 2
-
+        
     }
-
-
+    
+    
     @IBAction func buttonDidPress() {
         if buttonView.currentTitle == "START" {
             buttonView.setTitle("NEXT", for: .normal)
@@ -58,9 +58,9 @@ class ViewController: UIViewController {
             greenLightView.alpha = lightIsOn
             currentLight = .red
         }
-        }
     }
-    
+}
+
 
 extension ViewController {
     private enum CurrentLight {
